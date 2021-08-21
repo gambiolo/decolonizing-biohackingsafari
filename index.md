@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Serendipity in science
 
-You can use the [editor on GitHub](https://github.com/gambiolo/decolonizing-biohackingsafari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## documenting anthropocenic ways of living with the trouble
+studies on origins, behaviors, physical, social, cultural development of the ''biohacking society'' at large, great ideas are often articulated by communities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Screen Shot 2021-06-27 at 9 00 26 PM](https://user-images.githubusercontent.com/86488172/123556402-5582e600-d78b-11eb-8720-e2a0659dbd37.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+-A Decade ago a collaborative non-profit [Biohacking Safari](https://www.flickr.com/photos/79382209@N05/sets/?fbclid=IwAR02Tu1dptDLE2LMHFWjO0JiL_E5B7dy1zAO5iBM3kDxnuLrrV_I6qXmB50) explored 'rich priviledge western narrative' where hackers and [biologists](https://soundcloud.com/quitteriel) worked in communal and creative spaces. We also curated workshops/lectures/articles often blending science fiction and anthropology with the aim to provoc debat.
 
-# Header 1
-## Header 2
-### Header 3
+.
 
-- Bulleted
-- List
+The name ''BIOHACKING SAFARI'' (BS) was founded in Paris in 2014 at a time when the Californian (and Bostonian) ideologies were the dominant narratives. We anthropologically explored these dominant biohacking narratives. Especialy how the maker movement was collonising the whole world with the californian ideologies. We had to get deeper into the rabbit hole to get deeper at the core of these ideologies. 
 
-1. Numbered
-2. List
+We learned that behind marketing and branding, an image can manipulate way much more than words can do,  especially from institutions such as MIT Medialab that promotes 'open source transparency' and ''bio-ethic'' in academia, but it realy felt like shadowing the power structures of a greater colonial matrix beneath...hello Github;)
+.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Hopefully in our search for 'scenius' communities we found in Brazil the perfect way to decolonize biohacking safari by remixing the GAMBIARRA narrative.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#GAMBIOLOGY is the science and practice of tinkering/reparing & Making things work again. It is a form of decolonial cosmotechnic that emerges from precariousness lifestyle. It felt like it was invented by someone from the futur to show us western high-tech consumers some degrowth prospectives...let's hope academia do not reapropriate this culture too fast, because they will.
 
-### Jekyll Themes
+.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gambiolo/decolonizing-biohackingsafari/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### So from now on Biohacking Safari will be: 
 
-### Support or Contact
+### 🌍 GAMBIOLOGiTS 🌎 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Do you wanna G.I.T ? (Get.it.Together) 
+
+
+Why GIT tho?
+
+
+because GiT is a software for tracking changes in any set of files, it's usually used for coordinating works among collaborative coding workflows.
+
+Sadly GITHUB belongs to Microsoft but we planning on decolonizing that too soon... we're just at the lab for the moment studying how the 'octopus' behave.
+
+.
+
+Viens on sème ? 
+
